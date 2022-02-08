@@ -27,9 +27,9 @@ chmod +x run_mapping.sh
 # Index the fasta file so Artemis can view each chromosome separately
 samtools faidx PbANKA_v3.fa
 
-art -Dbam="Pb_MUT1_sorted.bam,Pb_MUT2_sorted.bam,Pb_MUT3_sorted.bam,Pb_WT1_sorted.bam,Pb_WT2_sorted.bam,Pb_WT3_sorted.bam" PbANKA_v3.fa +PbANKA_14_v3.embl &
+art -Dbam="Pb_MUT1_sorted.bam,Pb_MUT2_sorted.bam,Pb_MUT3_sorted.bam,Pb_WT1_sorted.bam,Pb_WT2_sorted.bam,Pb_WT3_sorted.bam" PbANKA_v3.fa &
 
-
+# Select "Use index" and "OK" for the error
 
 
 ################
