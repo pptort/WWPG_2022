@@ -44,16 +44,13 @@ Press ctrl-g and use Goto Feature With Gene Name to navigate to the gene "AP2-G"
 
 
 
-################
-## Exercise 3 ##
-################
+# Exercise 3
 
-# Call differentially expressed genes
+
+## Call differentially expressed genes
 
 # Kallisto needs an index of the transcript sequences.
 
-################
-## Exercise 4 ##
-################
+# Exercise 4
 
-# Perform a Gene Ontology enrichment analysis (we have provided an R script to help with this)
+## Perform a Gene Ontology enrichment analysis (we have provided an R script to help with this)
