@@ -49,7 +49,7 @@ Press ctrl-g and use Goto Feature With Gene Name to navigate to the gene "AP2-G"
 
 ## Call differentially expressed genes
 
-# Kallisto needs an index of the transcript sequences.
+Kallisto needs an index of the transcript sequences.
 
 # Exercise 4
 
