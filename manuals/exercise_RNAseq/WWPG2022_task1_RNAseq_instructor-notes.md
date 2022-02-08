@@ -37,7 +37,7 @@ Right click on the BAM view, and clone the window and de-select one of the condi
 
 Go to chromosome 14 and upload annotation file provided for this chromosome (PbANKA_14_v3.embl).
 
-Press ctrl-g and use Goto Feature With Gene Name to navigate to the gene "AP2-G". Remember that this gene was knoked out in MT parasite, so we do not expect to find reads on this gene in the MT samples.
+Press ctrl-g and use Goto Feature With Gene Name to navigate to the gene "AP2-G". Remember that this gene was knoked out in MT parasites, so we do not expect to find reads on this gene in the MT samples. Visualize that there are practically no reads mapping to this gene in MT sample. A good practice is to calcular RPKM and compare this parameter between samples.
 
 
 
