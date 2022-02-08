@@ -35,7 +35,11 @@ Select ”Use index” so Artemis will show individual chromosomes.
 
 Right click on the BAM view, and clone the window and de-select one of the condition in each view so you can have MT and WT separately.
 
-Go to Chr14 and upload annotation file provided for this chromosome (PbANKA_14_v3.embl).
+Go to chromosome 14 and upload annotation file provided for this chromosome (PbANKA_14_v3.embl).
+
+Press ctrl-g and use Goto Feature With Gene Name to navigate to the gene "AP2-G". Remember that this gene was knoked out in MT parasite, so we do not expect to find reads on this gene in the MT samples.
+
+
 
 
 
