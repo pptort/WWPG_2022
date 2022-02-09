@@ -49,7 +49,19 @@ Press ctrl-g and use Goto Feature With Gene Name to navigate to the gene "AP2-G"
 
 ## Call differentially expressed genes
 
+Kalliso and Sleuth are going to used in order to identify differentially expressed genes.
+
 Kallisto needs an index of the transcript sequences.
+
+$ kallisto index -i PbANKA_v3_kallisto PbANKA_v3_transcriptome.fa
+
+
+Quantify the expression levels of your transcripts for all the samples. Again it's a good oportinuity to practice interations
+
+$ chmod +x run_kallisto.sh 
+
+$ ./run_kallisto.sh 
+
 
 # Exercise 4
 
