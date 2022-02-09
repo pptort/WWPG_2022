@@ -62,8 +62,7 @@ $ chmod +x run_kallisto.sh
 
 $ ./run_kallisto.sh
 
-Statistical analysisi are going to be done with Sleuth that takes as an input the transcript abundances calculated by Kallisto.
-
+Statistical analysis are going to be done with Sleuth that takes as an input the transcript abundance calculated by Kallisto.
 
 
 
